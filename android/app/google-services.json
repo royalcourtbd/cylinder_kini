@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "858771771649",
+    "project_id": "cylinderkini",
+    "storage_bucket": "cylinderkini.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858771771649:android:d6ce64fa469a59f1928b00",
+        "android_client_info": {
+          "package_name": "com.royalcourtbd.cylinder_kini"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUrzvZqK5XVrdZJSVA2KFRQo5L74CXFBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
